@@ -1,0 +1,16 @@
+.navbar{
+    background-color: rgb(49, 2, 107);
+}
+
+.nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.navbar-collapse {
+    flex-basis: 10%;
+    flex-grow: 0;
+}
